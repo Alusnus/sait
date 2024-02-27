@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Операционная система "Душим Питона"</title>
+<meta charset="UTF-8"> 
+<style>
+body {
+  background-color: #333;
+  font-family: Arial;
+  color: #fff;
+}
+
+h1 {
+  text-align: center;  
+}
+
+p {
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+.logo {
+  width: 300px;
+  display: block;
+  margin: 50px auto;
+}
+
+.features {
+  display: flex;  
+  justify-content: space-between;
+  margin: 50px 100px;
+}
+
+.feature-img {
+  width: 150px; 
+  border: 4px solid #73AD21;
+}
+
+a {
+  color: #73AD21;
+}
+</style>
+</head>
+
+<body>
+
+<h1>Душим Питона</h1>
+
+<img src="file:///C:/Users/Student/Downloads/generate-a-logo-for-the-company-strangling-python-574972357.png" alt="Логотип" class="logo">
+
+<div class="features">
+
+  <div>
+    <img src="https://penza-post.ru/uploads/violetta/skorost_za.jpg" alt="Скорость" class="feature-img">
+    <p>Невероятная скорость работы</p> 
+  </div>
+
+  <div>
+     <img src="https://www.cs-cart.ru/blog/wp-content/uploads/2017/08/interfei--s.jpg" alt="Интерфейс" class="feature-img">
+    <p>Современный дизайн интерфейса</p>
+  </div>
+
+  <div>
+    <img src="https://d-russia.ru/wp-content/uploads/2019/05/Runet-1.jpg" alt="Безопасность" class="feature-img">
+    <p>Повышенная безопасность данных</p>
+  </div>
+
+</div>
+
+<p>Душим Питона - это новая операционная система на ядре Линукс. Узнать подробности и скачать можно на <a href="./snusik2.html">официальном сайте</a>.</p>
+
+</body>
+</html>
+
