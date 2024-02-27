@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Скачать Душим Питона</title>
+  <meta charset="UTF-8">
+
+  <style>
+    /* Стили с главной страницы */
+    body {
+        background-color: rgb(182, 127, 255);
+    }
+    .button {
+      background: #73AD21;
+      padding: 15px 30px; 
+      color: #fff;
+      text-decoration: none;  
+    }
+  </style>
+
+</head>
+
+<body>
+    
+  <h1>Скачать Душим Питона</h1>
+
+  <p>Спасибо за интерес к операционной системе Душим Питона! Скачайте последнюю версию установщика для вашего компьютера.</p>
+
+  <a href="#" class="button">Скачать для Windows</a>
+
+  <a href="#" class="button">Скачать для MacOS</a>
+
+  <a href="#" class="button">Скачать для Linux</a>
+
+  <p>После скачивания, запустите установщик и следуйте инструкциям для установки на ваш компьютер.</p>
+
+  <p>Возникли проблемы или есть вопросы? Посетите нашу страницу <a href="#">поддержки</a>.</p>
+
+</body>
+</html>
